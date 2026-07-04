@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Purva1316/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Purva1316/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Purva1316/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purva1316/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Purva1316/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
