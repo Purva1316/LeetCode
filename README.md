@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purva1316/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Purva1316/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Purva1316/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purva1316/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purva1316/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Purva1316/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Purva1316/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
