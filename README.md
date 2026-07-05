@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/Purva1316/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Purva1316/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Purva1316/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Purva1316/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Purva1316/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
