@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Purva1316/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Purva1316/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
