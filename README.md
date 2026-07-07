@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Purva1316/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Purva1316/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Purva1316/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Purva1316/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Purva1316/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Purva1316/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Purva1316/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Purva1316/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
