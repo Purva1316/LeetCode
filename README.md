@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Purva1316/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Purva1316/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Purva1316/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Purva1316/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Purva1316/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Purva1316/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Purva1316/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
