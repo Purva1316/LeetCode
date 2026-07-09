@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Purva1316/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Purva1316/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Purva1316/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Purva1316/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Purva1316/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Purva1316/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Purva1316/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
