@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Purva1316/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Purva1316/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/Purva1316/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Purva1316/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Purva1316/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Purva1316/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/Purva1316/LeetCode/tree/main/1051-height-checker/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Purva1316/LeetCode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
