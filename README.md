@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Purva1316/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Purva1316/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Purva1316/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Purva1316/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Purva1316/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Purva1316/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Purva1316/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Purva1316/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
