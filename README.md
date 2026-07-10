@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Purva1316/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Purva1316/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Purva1316/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Purva1316/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Purva1316/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Purva1316/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Purva1316/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Purva1316/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Purva1316/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Purva1316/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Purva1316/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Purva1316/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Purva1316/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
