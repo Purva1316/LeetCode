@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Purva1316/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Purva1316/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Purva1316/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Purva1316/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Purva1316/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Purva1316/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Purva1316/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Purva1316/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/Purva1316/LeetCode/tree/main/0525-contiguous-array/) | Medium |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Purva1316/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Purva1316/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Purva1316/LeetCode/tree/main/1051-height-checker/) | Easy |
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Purva1316/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Purva1316/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Purva1316/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Purva1316/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
@@ -124,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purva1316/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Purva1316/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/Purva1316/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Purva1316/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
