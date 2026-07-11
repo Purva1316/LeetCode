@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Purva1316/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Purva1316/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purva1316/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Purva1316/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Purva1316/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Purva1316/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Purva1316/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purva1316/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Purva1316/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Purva1316/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
