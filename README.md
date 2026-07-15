@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Purva1316/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Purva1316/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purva1316/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Purva1316/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Purva1316/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Purva1316/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Purva1316/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Purva1316/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Purva1316/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Purva1316/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Purva1316/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
