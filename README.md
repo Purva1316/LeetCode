@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Purva1316/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Purva1316/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0520-detect-capital](https://github.com/Purva1316/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Purva1316/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Purva1316/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purva1316/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
