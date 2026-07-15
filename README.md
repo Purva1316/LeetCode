@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Purva1316/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Purva1316/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Purva1316/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/Purva1316/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Purva1316/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Array
 | Problem Name | Difficulty |
