@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Purva1316/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Purva1316/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Purva1316/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Purva1316/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/Purva1316/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Purva1316/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Purva1316/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Purva1316/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Purva1316/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Purva1316/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Purva1316/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/Purva1316/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Purva1316/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Purva1316/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Purva1316/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Purva1316/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Purva1316/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/Purva1316/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Purva1316/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Interactive
