@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purva1316/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Purva1316/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Purva1316/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Purva1316/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Purva1316/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purva1316/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Purva1316/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Purva1316/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Purva1316/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Purva1316/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Purva1316/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purva1316/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Purva1316/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Purva1316/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purva1316/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Purva1316/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sliding Window
